@@ -43,7 +43,7 @@ A command-line tool that evaluates mathematical strings.
 - **Core Concepts:** Lexical analysis, Recursive Descent Parsing, Abstract Syntax Trees (implicit), call-stack manipulation.
 - **Highlights:** Safely evaluates complex nested parentheses and respects the standard order of operations (PEMDAS) without relying on external evaluation libraries.
 
-### 4. [File Management Tool](https://github.com/Chitlangia-Vedant/CPP-Projects/tree/main/File%20Management%20Tool)
+### 4. [File Management Tool](https://github.com/Chitlangia-Vedant/CPP-Projects/tree/main/File%20Managemant%20Tool)
 A foundational command-line interface for file manipulation.
 - **Core Concepts:** Standard library `<fstream>`, stream state validation, dynamic appending, resource management.
 - **Highlights:** Demonstrates safe, leak-free file locking and manipulation using standard C++ streams.
