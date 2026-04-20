@@ -3,7 +3,7 @@
 [![Build System: CMake](https://img.shields.io/badge/Build-CMake-lightgrey.svg)]()
 [![Build: Passing](https://img.shields.io/badge/Build-Passing-brightgreen.svg)]()
 
-# Multithreaded File Compression Tool
+# Multithreaded File Compressor & Decompressor
 
 ## Table of Contents
 1. [Description](#description)
