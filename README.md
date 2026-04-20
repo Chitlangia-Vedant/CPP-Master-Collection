@@ -16,13 +16,14 @@ This repository contains a curated collection of C++ projects designed to demons
 All projects adhere to modern C++ standards (C++17) and utilize RAII principles and clean architectural patterns.
 
 ## Repository Structure
+```
 .
 ├── File Compressor & Decompressor/
 ├── File Management Tool/
 ├── SFML Snake Game/
 ├── Simple Arithmetic Expression Compiler/
 └── README.md
-
+```
 *(Note: Each individual project directory contains its own detailed README, build instructions, and source code).*
 
 ## Projects Included

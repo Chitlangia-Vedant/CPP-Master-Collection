@@ -24,6 +24,7 @@ The application employs a **Master-Worker Threading Model**:
 3. **Reassembly:** Thread safety is maintained by using mutexes or futures to collect the processed data. The master thread reorders the chunks to maintain data integrity and writes the final output to the disk.
 
 ## Directory Structure
+```
 .
 ├── CMakeLists.txt
 ├── README.md
@@ -32,7 +33,7 @@ The application employs a **Master-Worker Threading Model**:
 └── src/
     ├── Compressor.cpp
     └── main.cpp
-
+```
 ## Features
 - Compress and decompress any file
 - Multithreaded chunk-wise compression

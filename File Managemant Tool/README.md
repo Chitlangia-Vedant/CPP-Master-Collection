@@ -23,11 +23,12 @@ This tool relies on the standard library `<fstream>` module, utilizing the **RAI
 The architecture sequentially demonstrates opening a stream, validating the stream state (`if (!file)`), performing I/O operations, and safely closing the stream to prevent memory leaks and file locks.
 
 ## Directory Structure
+```
 .
 ├── file_management.cpp
 ├── .gitignore
 └── README.md
-
+```
 ## Features
 - Writing content to a new text file
 - Reading content from an existing text file

@@ -24,10 +24,11 @@ This compiler utilizes a **Recursive Descent Parser** to evaluate expressions. I
 The parser reads tokens sequentially, building a call stack that naturally respects operator precedence.
 
 ## Directory Structure
+```
 .
 ├── simple_arithmetic_compiler.cpp
 └── README.md
-
+```
 ## Features
 - Supports Addition (+), Subtraction (-), Multiplication (*), and Division (/)
 - Evaluates Parentheses ()

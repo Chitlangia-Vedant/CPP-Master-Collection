@@ -25,6 +25,7 @@ The application is built around a classic **Game Loop** pattern governed by SFML
 The project is modularized into OOP concepts: `Game` (loop and state), `Snake` (movement logic), and `Food` (spawning logic).
 
 ## Directory Structure
+```
 .
 ├── Game.cpp
 ├── Game.h
@@ -41,7 +42,7 @@ The project is modularized into OOP concepts: `Game` (loop and state), `Snake` (
     ├── munch.wav
     ├── pop.wav
     └── snakebod.png
-
+```
 ## Features
 - Classic snake gameplay: eat food, grow longer, avoid collisions
 - Smooth graphics rendered with SFML
